@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    padding-bottom: 200px;
+    font-size: 50px;
+    text-decoration: underline;
+}
+.box {
+    width: 660px;
+    height: 200px;
+    background-color: rgb(203, 203, 236);
+    margin: 0 auto;
+    border: 2px solid;
+}
+.parent {
+    width: 630px;
+    height: 200px;
+    margin: 0 auto;
+    border: 2px solid;
+    margin-top: 200px;
+    padding-left: 12px;
+    padding-bottom: 5px;
+}
+span {
+    width: 200px;
+    height: 180px;
+    background-color: rgb(203, 203, 236);
+    display: inline-block;
+    border: 2px solid;
+    font-size: 0;
+}
